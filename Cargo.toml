@@ -1,5 +1,5 @@
 [package]
-name = "display-info"
+name = "display_info"
 version = "0.4.3"
 edition = "2021"
 description = "Cross-platform get display info"
